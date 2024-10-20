@@ -1,5 +1,5 @@
 {
-  "name": "sb-play-function-for-remix-sample",
+  "name": "storybook-play-function-for-remix",
   "private": true,
   "sideEffects": false,
   "type": "module",
